@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Followers](https://img.shields.io/github/followers/justanothernormalusername?label=Followers&style=flat-square)](https://github.com/justanothernormalusername)
 
-<!--
-**justanothernormalusername/justanothernormalusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+👋 Heyo, I'm **Marcus Deng**. I'm a student at **Fleetwood Park Secondary School**. My MLH profile lists my field of study as computer science, computer engineering, or software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- 🎓 [Praxis](https://github.com/justanothernormalusername/Praxis) — A programming learning app that teaches concepts through a Socratic chatbot. (Python, JavaScript, HTML, CSS)
+- 💎 [Serenity Reforged](https://github.com/justanothernormalusername/Serenity-Reforged) — A Minecraft mod featuring a custom lapidary crafting system. (Java, Fabric)
+
+## Tech & Focus
+
+- 🧰 Languages used in my public projects: Python, Java, JavaScript, HTML, CSS
+- 🔭 Project areas: programming education, AI-powered learning tools, and Minecraft modding
